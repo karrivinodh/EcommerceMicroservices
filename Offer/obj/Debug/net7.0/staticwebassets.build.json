@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SSt4oL41m64C75y7WAkD3J+j5LkleTUrv64JUhY8fWM=",
+  "Source": "OfferMicroService",
+  "BasePath": "_content/OfferMicroService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
